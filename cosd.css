@@ -1,0 +1,37 @@
+
+body
+{
+	background-image: url(1.jpg);
+		width:1200px;
+height:800px;
+padding:30px;
+}
+.title {
+	font-size: 60px;
+	color:blue;
+	text-shadow:2px 2px 0 #ccc;
+	text-align:center;
+	text-shadow:yellow 3px 3px 3px;
+}
+
+ul{
+	text-align: center;
+}
+
+li{
+	display: inline;
+	font-size:35px;
+	}
+	a{
+		color:yellow;
+		font-weight:bold;
+		font-family: sans-serif;
+		text-decoration:none;
+		border: 5px solid yellow;
+background-image: url(12.jpeg);
+   
+	}
+	a:hover{
+		color:red;
+		background: blue;
+	}
